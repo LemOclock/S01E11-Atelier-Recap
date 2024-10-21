@@ -7,7 +7,7 @@
 
  * Mail : benlem@example.com
 * Tél : 060606060606
-*  [Linkedln](linkedin.com)
- * [Twitter](x.com)
+*  [Linkedln](https://linkedin.com)
+ * [Twitter](https://x.com)
 
 [Accueil](README.md)  - [Projets](projets.md)  - [Contact](contact.md) -  [CV](CV.md) 
