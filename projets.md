@@ -1,3 +1,4 @@
+![Bannière](https://equilibre-france-ergonomie.fr/wp-content/uploads/2021/11/Bannie%CC%80re-Article-Equilibre-1-2.jpg)
 # Benoit Lemaistre
 
 *Développeur web junior............*
